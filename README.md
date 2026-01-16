@@ -1,10 +1,9 @@
 Hi Murtza here 
 ## PORTFOLIO
-🌐 https://murtza.vercel.app
+ https://murtza.vercel.app
 
 ## MAIL
-✉️ murtzazabair@gmail.com
+ murtzazabair@gmail.com
 
 ## SOCIAL
-- Twitter  
 - LinkedIn: https://linkedin.com/in/murtza-zabair
